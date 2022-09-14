@@ -14,11 +14,11 @@
 
 4. <sub>**Se da clic en crear**</sub>
 
-<img src="..\img\p1\4.png"  width="600" height="400">
+<img src="..\img\p1\4.png"  width="600" height="600">
 
 5. <sub>**Hay que esperar un momento en el que se crea el servicio**</sub>
 
-<img src="..\img\p1\5.png"  width="600" height="400">
+<img src="..\img\p1\5.png"  width="800" height="300">
 
 6. <sub>**Una vez que se crea se puede ir directamente al recurso**</sub>
 
@@ -30,11 +30,11 @@
 
 8. <sub>**al ser la primera vez seleccionamos un idioma**</sub>
 
-<img src="..\img\p1\8.png"  width="600" height="400">
+<img src="..\img\p1\8.png"  width="600" height="300">
 
 9. <sub>**Nos pedira las credenciales de ususrio**</sub>
 
-<img src="..\img\p1\9.png"  width="600" height="400">
+<img src="..\img\p1\9.png"  width="800" height="400">
 
 10. <sub>**Aparecera el mensaje de felizidades el web service esta instalado**</sub>
 
@@ -42,11 +42,11 @@
 
 11. <sub>**Al entrar se ponen las credenciales**</sub>
 
-<img src="..\img\p1\11.png"  width="600" height="400">
+<img src="..\img\p1\11.png"  width="400" height="400">
 
 12. <sub>**Y se abre el panel correspodiente de la administracion de Wordbeach**</sub>
 
-<img src="..\img\p1\12.png"  width="600" height="400">
+<img src="..\img\p1\12.png"  width="800" height="400">
 
 13. <sub>**Al abrir la url ya nos envia a nuestra pagina que creamos**</sub>
 
