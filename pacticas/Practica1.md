@@ -39,3 +39,15 @@
 10. <sub>**Aparecera el mensaje de felizidades el web service esta instalado**</sub>
 
 <img src="..\img\p1\10.png"  width="600" height="400">
+
+11. <sub>**Al entrar se ponen las credenciales**</sub>
+
+<img src="..\img\p1\11.png"  width="600" height="400">
+
+12. <sub>**Y se abre el panel correspodiente de la administracion de Wordbeach**</sub>
+
+<img src="..\img\p1\12.png"  width="600" height="400">
+
+13. <sub>**Al abrir la url ya nos envia a nuestra pagina que creamos**</sub>
+
+<img src="..\img\p1\13.png"  width="600" height="400">
