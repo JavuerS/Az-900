@@ -38,4 +38,4 @@
 
 10. <sub>**Aparecera el mensaje de felizidades el web service esta instalado**</sub>
 
-<img src="..\img\p1\7.png"  width="600" height="400">
+<img src="..\img\p1\10.png"  width="600" height="400">
