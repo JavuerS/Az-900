@@ -1,6 +1,6 @@
 #Creacion de services Web (WordPress)
 
-1. Desde el marketplace de Azure se busca el servicio Word Press y se da click en crear. _
+1. Desde el marketplace de Azure se busca el servicio Word Press y se da click en crear
 
 <img src="..\img\p1\1.png"  width="600" height="400">
 
